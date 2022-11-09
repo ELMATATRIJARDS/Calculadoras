@@ -1,0 +1,67 @@
+body{
+    height: 600px;
+    background-color: cyan;
+    background-image: url("https://static7.depositphotos.com/1278966/761/i/450/depositphotos_7616724-stock-photo-math-background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+
+h1{
+    color: crimson;
+}
+
+p{
+    color:cyan
+}
+
+h2{
+    color:aqua;
+}
+
+h3{
+    color:darkorange
+}
+
+.fo{
+    font-size: 0.8rem;
+}
+
+.cuadrado{
+    color: aqua;
+    text-align: center;
+}
+
+.triangulo{
+    color: crimson;
+}
+
+.rombo{
+    color: darkgoldenrod;
+}
+
+.paralelogramo{
+    color: gold;
+}
+
+.trapecio{
+    color: coral;
+}
+
+.pentagono{
+    color: chartreuse;
+}
+
+.hexagono{
+    color: cornflowerblue;
+}
+
+.rectangulo{
+    color: deepskyblue;
+}
+
+.circulo{
+    color: rgb(0, 255, 115);
+}
